@@ -1,0 +1,1 @@
+This manual includes how to use TI mmWave Radar hardware. It takes IWR/AWR 1843 BOOST Evaluation Board as an example to show how to operate all kinds of work modes and some problems we might encounter.
